@@ -1,6 +1,6 @@
 package me.jonasxpx.playerloja;
 
-import me.jonasxpx.playerloja.interfece.TeleportManager;
+import me.jonasxpx.playerloja.interfaces.TeleportManager;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Location;

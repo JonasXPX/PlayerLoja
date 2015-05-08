@@ -9,7 +9,7 @@ import org.bukkit.plugin.java.JavaPlugin;
  * @author JonasXPX
  * @since 30/3/2015
  * Este codigo nao deve ser modificado,
- * assim respeitando o dereito do autor.
+ * assim respeitando o direito do autor.
  *
  */
 public class PlayerLoja extends JavaPlugin {

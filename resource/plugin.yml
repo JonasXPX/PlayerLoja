@@ -1,0 +1,7 @@
+name: PlayerLoja
+main: me.jonasxpx.playerloja.PlayerLoja
+version: 1.0
+commands:
+    delloja:
+    loja:
+    setloja:

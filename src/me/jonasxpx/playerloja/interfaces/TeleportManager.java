@@ -1,4 +1,4 @@
-package me.jonasxpx.playerloja.interfece;
+package me.jonasxpx.playerloja.interfaces;
 
 import org.bukkit.Location;
 

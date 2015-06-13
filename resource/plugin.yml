@@ -1,5 +1,6 @@
 name: PlayerLoja
 main: me.jonasxpx.playerloja.PlayerLoja
+authors: [JonasXPX]
 version: 1.0
 commands:
     delloja:
